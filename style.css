@@ -8,7 +8,7 @@ body {
 
 .container {
     background-color: rgb(34, 216, 210);
-    min-height: 55vh;
+    height: 20rem;
     min-width: 25vw;
     padding: 0px, 90px;
     border-radius: 8px ;
